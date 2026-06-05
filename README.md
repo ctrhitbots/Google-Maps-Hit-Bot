@@ -3,12 +3,6 @@ Google Haritalar'da 1. Sıraya Çıkın İşletmenizin sıralamasını, gerçek 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CTR%20HIT%20BOT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Real%20Browser%20%C2%B7%20Real%20Signals%20%C2%B7%20Real%20Rankings&descAlignY=60&descSize=18" width="100%"/>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=MAPS%20HIT%20BOT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Rise%20to%201st%20Place%20on%20Google%20Maps%20%C2%B7%20Google%20Maps%27ta%201.%20S%C4%B1raya%20Y%C3%BCksel&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
