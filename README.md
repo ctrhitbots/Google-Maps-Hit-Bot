@@ -1,6 +1,3 @@
-# Google-Maps-Hit-Bot
-Google Haritalar'da 1. Sıraya Çıkın İşletmenizin sıralamasını, gerçek kullanıcı davranışlarını simüle eden gelişmiş otomasyon teknolojisiyle güvenli biçimde yükseltin. Maps Hit Bot, işletmenizin Google Haritalar (Maps) görünürlüğünü artırmak için geliştirilmiş, gerçek kullanıcı davranışlarını simüle eden profesyonel bir SEO otomasyon aracıdır.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=MAPS%20HIT%20BOT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Rise%20to%201st%20Place%20on%20Google%20Maps%20%C2%B7%20Google%20Maps%27ta%201.%20S%C4%B1raya%20Y%C3%BCksel&descAlignY=60&descSize=16" width="100%"/>
